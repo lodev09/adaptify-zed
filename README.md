@@ -2,6 +2,35 @@
 
 A beautiful, adaptive dark theme for Zed editor with multiple variants.
 
+![Adaptify Dark](assets/screenshot-dark.png)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshot-dark.png" alt="Adaptify Dark" width="400"/>
+      <br/>
+      <b>Adaptify Dark</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshot-dark-blurred.png" alt="Adaptify Dark (Blurred)" width="400"/>
+      <br/>
+      <b>Adaptify Dark (Blurred)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshot-darker.png" alt="Adaptify Darker" width="400"/>
+      <br/>
+      <b>Adaptify Darker</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshot-darker-blurred.png" alt="Adaptify Darker (Blurred)" width="400"/>
+      <br/>
+      <b>Adaptify Darker (Blurred)</b>
+    </td>
+  </tr>
+</table>
+
 ## Variants
 
 This theme includes four distinct variants:
@@ -39,8 +68,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT License - see LICENSE file for details
+[MIT](LICENSE)
 
-## Author
+---
 
-Jovanni Lo
+Made with ❤️ by [@lodev09](http://linkedin.com/in/lodev09/)
