@@ -13,10 +13,10 @@ A beautiful, adaptive dark theme for Zed editor.
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/screenshot-dark.png" alt="Adaptify Dark" width="400"/>
+      <img src="assets/adaptify-dark.png" alt="Adaptify Dark" width="400"/>
     </td>
     <td align="center">
-      <img src="assets/screenshot-darker.png" alt="Adaptify Darker" width="400"/>
+      <img src="assets/adaptify-darker.png" alt="Adaptify Darker" width="400"/>
     </td>
   </tr>
 </table>
