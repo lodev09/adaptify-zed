@@ -16,13 +16,13 @@ A beautiful, adaptive theme for Zed editor with both dark and light variants.
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/adaptify-dark.png" alt="Adaptify Dark" width="300"/>
+      <img src="assets/adaptify-dark.png" alt="Adaptify Dark" height="200"/>
     </td>
     <td align="center">
-      <img src="assets/adaptify-darker.png" alt="Adaptify Darker" width="300"/>
+      <img src="assets/adaptify-darker.png" alt="Adaptify Darker" height="200"/>
     </td>
     <td align="center">
-      <img src="assets/adaptify-light.png" alt="Adaptify Light" width="300"/>
+      <img src="assets/adaptify-light.png" alt="Adaptify Light" height="200"/>
     </td>
   </tr>
 </table>
