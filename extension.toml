@@ -1,7 +1,7 @@
 id = "adaptify"
 name = "Adaptify"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
-authors = ["Jovanni Lo"]
-description = "A beautiful, adaptive dark theme for your Zed editor"
+authors = ["Jovanni Lo <lodev09@gmail.com>"]
+description = "A beautiful, adaptive theme for your Zed editor"
 repository = "https://github.com/lodev09/adaptify-zed"
