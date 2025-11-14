@@ -32,16 +32,15 @@ This theme includes four distinct variants:
 
 ## Installation
 
-### Manual Installation
+Adaptify is available on the [Zed Extensions](https://github.com/zed-industries/extensions) repository.
 
-1. Clone this repository or download the theme file
-2. Copy the `themes` directory to your Zed configuration folder:
-   - macOS: ~/.config/zed/themes/
-   - Linux: ~/.config/zed/themes/
-   - Windows: %APPDATA%\Zed\themes\
-3. Restart Zed
-4. Open the command palette and select "Theme Selector"
-5. Choose your preferred Adaptify variant
+1. Open Zed editor
+2. Open the command palette (`cmd+shift+p` on macOS, `ctrl+shift+p` on Linux/Windows)
+3. Type "extensions" and select "zed: extensions"
+4. Search for "Adaptify"
+5. Click "Install"
+6. Open the command palette again and select "theme selector: toggle"
+7. Choose your preferred Adaptify variant
 
 ## Color Palette
 
@@ -54,7 +53,9 @@ The theme features a carefully selected color palette designed for extended codi
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome!
+
+For development and contribution instructions, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
