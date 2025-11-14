@@ -44,6 +44,8 @@ The theme includes four variants that should be maintained consistently:
 - **Adaptify Dark (Blurred)** - Dark with translucent backgrounds
 - **Adaptify Darker** - Deeper blacks variant
 - **Adaptify Darker (Blurred)** - Darker with translucent backgrounds
+- **Adaptify Light** - Light theme
+- **Adaptify Dark (Blurred)** - Light theme with translucent backgrounds
 
 When making changes, ensure all variants are updated appropriately.
 

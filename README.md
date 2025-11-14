@@ -1,6 +1,6 @@
 # Adaptify for Zed
 
-A beautiful, adaptive theme for Zed editor with both dark and light variants.
+A beautiful, adaptive theme for your Zed editor 🎨
 
 <table>
   <tr>
