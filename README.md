@@ -1,6 +1,6 @@
 # Adaptify for Zed
 
-A beautiful, adaptive dark theme for Zed editor.
+A beautiful, adaptive theme for Zed editor with both dark and light variants.
 
 <table>
   <tr>
@@ -10,25 +10,33 @@ A beautiful, adaptive dark theme for Zed editor.
     <td align="center">
       <b>Darker</b>
     </td>
+    <td align="center">
+      <b>Light</b>
+    </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/adaptify-dark.png" alt="Adaptify Dark" width="400"/>
+      <img src="assets/adaptify-dark.png" alt="Adaptify Dark" width="300"/>
     </td>
     <td align="center">
-      <img src="assets/adaptify-darker.png" alt="Adaptify Darker" width="400"/>
+      <img src="assets/adaptify-darker.png" alt="Adaptify Darker" width="300"/>
+    </td>
+    <td align="center">
+      <img src="assets/adaptify-light.png" alt="Adaptify Light" width="300"/>
     </td>
   </tr>
 </table>
 
 ## Variants
 
-This theme includes four distinct variants:
+This theme includes six distinct variants:
 
 - **Adaptify Dark** - The main dark theme with comfortable contrast
 - **Adaptify Dark (Blurred)** - Dark theme with translucent backgrounds
 - **Adaptify Darker** - A darker variant for those who prefer deeper blacks
 - **Adaptify Darker (Blurred)** - Darker variant with translucent backgrounds
+- **Adaptify Light** - A clean light theme with vibrant syntax colors
+- **Adaptify Light (Blurred)** - Light theme with translucent backgrounds
 
 ## Installation
 
