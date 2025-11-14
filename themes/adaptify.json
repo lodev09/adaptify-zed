@@ -124,7 +124,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#15191f",
-            "selection": "#454750"
+            "selection": "#1e3a52"
           }
         ],
         "syntax": {
@@ -478,7 +478,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#15191f",
-            "selection": "#454750"
+            "selection": "#1e3a52"
           }
         ],
         "background.appearance": "blurred",
@@ -832,7 +832,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#393B44"
+            "selection": "#1a3548"
           }
         ],
         "syntax": {
@@ -1186,7 +1186,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#393B44"
+            "selection": "#1a3548"
           }
         ],
         "background.appearance": "blurred",
